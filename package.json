@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "inquirer": "^9.2.10",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code-generator",
+  "description": "<br />\r <p>\r     Used the inquirer npm package to get user input <br />\r     Used the qr-image npma packed to turn the user entered URL into a QR code image <br />\r     At the end a txt file should be created to save the user input using the native fs node module <br />\r </p>\r <img src=\"https://shorturl.at/aprE3\" />",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kenneth",
+  "license": "ISC"
+}
